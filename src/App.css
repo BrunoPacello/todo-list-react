@@ -162,3 +162,10 @@ button:last-of-type {
   background-color: #c0392b;
   color: white;
 }
+
+.list-container p {
+  color: #ccc;
+  font-size: 18px;
+  text-align: center;
+  margin-top: 20px;
+}
